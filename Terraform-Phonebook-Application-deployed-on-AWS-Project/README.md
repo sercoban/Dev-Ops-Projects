@@ -207,7 +207,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
 
 - Use given html templates to warn user with invalid inputs.
 
-- Customize the application by hard-coding your name for the `developer_name` variable within html templates.
+- Customize the application by hard-coding your name for the `developer_name` variable within html templates
 
 - Use AWS CLI commands to get subnet ids of the default VPCs.
 
