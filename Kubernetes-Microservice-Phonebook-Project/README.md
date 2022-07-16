@@ -12,7 +12,7 @@ Phonebook Microservice Web Application aims to create a web application with MyS
 
 - Software Developers in your team have already developed first version of `Phonebook` application. They have designed a database to keep phonebook records with following fields.
 
-  - id: unique identifier for records, data type is integer and it will be auto increment.
+  - id: unique identifier for records, data type is integer and it will be auto increment
 
   - name: name of record, data type is string.
 
